@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "F:\\LeetCodeProblems\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD44E352-789B-41F5-9EAD-A9E605754B0F}|LeetPractice\\LeetPractice.csproj|f:\\leetcodeproblems\\leetpractice\\500_keyboardrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD44E352-789B-41F5-9EAD-A9E605754B0F}|LeetPractice\\LeetPractice.csproj|solutionrelative:leetpractice\\500_keyboardrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD44E352-789B-41F5-9EAD-A9E605754B0F}|LeetPractice\\LeetPractice.csproj|f:\\leetcodeproblems\\leetpractice\\599_minindexsumtwolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD44E352-789B-41F5-9EAD-A9E605754B0F}|LeetPractice\\LeetPractice.csproj|solutionrelative:leetpractice\\599_minindexsumtwolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD44E352-789B-41F5-9EAD-A9E605754B0F}|LeetPractice\\LeetPractice.csproj|f:\\leetcodeproblems\\leetpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "500_KeyboardRow.cs",
-              "DocumentMoniker": "F:\\LeetCodeProblems\\LeetPractice\\500_KeyboardRow.cs",
-              "RelativeDocumentMoniker": "LeetPractice\\500_KeyboardRow.cs",
-              "ToolTip": "F:\\LeetCodeProblems\\LeetPractice\\500_KeyboardRow.cs",
-              "RelativeToolTip": "LeetPractice\\500_KeyboardRow.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Title": "599_MinIndexSumTwoList.cs",
+              "DocumentMoniker": "F:\\LeetCodeProblems\\LeetPractice\\599_MinIndexSumTwoList.cs",
+              "RelativeDocumentMoniker": "LeetPractice\\599_MinIndexSumTwoList.cs",
+              "ToolTip": "F:\\LeetCodeProblems\\LeetPractice\\599_MinIndexSumTwoList.cs",
+              "RelativeToolTip": "LeetPractice\\599_MinIndexSumTwoList.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwBAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T05:44:21.845Z",
+              "WhenOpened": "2025-02-24T09:47:41.705Z",
               "EditorCaption": ""
             },
             {
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "LeetPractice\\Program.cs",
               "ToolTip": "F:\\LeetCodeProblems\\LeetPractice\\Program.cs",
               "RelativeToolTip": "LeetPractice\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAABzAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T05:44:13.767Z",
               "EditorCaption": ""
