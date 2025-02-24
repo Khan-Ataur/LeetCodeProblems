@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\LeetCodeProblems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD44E352-789B-41F5-9EAD-A9E605754B0F}|LeetPractice\\LeetPractice.csproj|f:\\leetcodeproblems\\leetpractice\\500_keyboardrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD44E352-789B-41F5-9EAD-A9E605754B0F}|LeetPractice\\LeetPractice.csproj|solutionrelative:leetpractice\\500_keyboardrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD44E352-789B-41F5-9EAD-A9E605754B0F}|LeetPractice\\LeetPractice.csproj|f:\\leetcodeproblems\\leetpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD44E352-789B-41F5-9EAD-A9E605754B0F}|LeetPractice\\LeetPractice.csproj|solutionrelative:leetpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "500_KeyboardRow.cs",
+              "DocumentMoniker": "F:\\LeetCodeProblems\\LeetPractice\\500_KeyboardRow.cs",
+              "RelativeDocumentMoniker": "LeetPractice\\500_KeyboardRow.cs",
+              "ToolTip": "F:\\LeetCodeProblems\\LeetPractice\\500_KeyboardRow.cs",
+              "RelativeToolTip": "LeetPractice\\500_KeyboardRow.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:44:21.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\LeetCodeProblems\\LeetPractice\\Program.cs",
+              "RelativeDocumentMoniker": "LeetPractice\\Program.cs",
+              "ToolTip": "F:\\LeetCodeProblems\\LeetPractice\\Program.cs",
+              "RelativeToolTip": "LeetPractice\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:44:13.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
