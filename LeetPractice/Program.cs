@@ -40,11 +40,12 @@ using LeetPractice;
 
 _599_MinIndexSumTwoList objMinIndex = new _599_MinIndexSumTwoList();
 
-string[] list1 = ["Shogun", "Tapioca Express", "Burger King", "KFC"];
-string[] list2 = ["Piatti", "The Grill at Torrey Pines", "Hungry Hunter Steakhouse", "Shogun"];
+//string[] list1 = ["Shogun", "Tapioca Express", "Burger King", "KFC"];
+//string[] list2 = ["Piatti", "The Grill at Torrey Pines", "Hungry Hunter Steakhouse", "Shogun"];
 
 
-
+string[] list1 = ["happy", "sad", "good"];
+string[] list2 = ["sad", "happy", "good"];
 
 
 

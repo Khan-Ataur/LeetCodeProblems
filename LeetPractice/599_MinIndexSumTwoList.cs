@@ -11,10 +11,8 @@ namespace LeetPractice
     {
         public string[] FindRestaurant(string[] list1, string[] list2)
         {
-            List<string> wordList = new List<string>();
-            string[] resultArray = [];
-            Dictionary<int, string> objDictionary = new Dictionary<int, string>();
-           
+            Dictionary<int, List<string>> objDictionary = new Dictionary<int, List<string>>();
+            int minIndexSum = int.MaxValue;
 
             foreach (var item in list1)
             {
@@ -25,11 +23,19 @@ namespace LeetPractice
                     int list2_index = Array.IndexOf(list2, _currentValue);
                     int sumOfIndex = list1_index + list2_index;
 
-                    //objDictionary.Add(sumOfIndex, _currentValue);
+                    // Add to dictionary
+                    if (!objDictionary.ContainsKey(sumOfIndex))
+                    {
+                        objDictionary[sumOfIndex] = new List<string>();
+                    }
+                    objDictionary[sumOfIndex].Add(item);
+
+                    // Keep track of the minimum sum index
+                    minIndexSum = Math.Min(minIndexSum, sumOfIndex);
                 }
             }
 
-            return resultArray;
+            return objDictionary[minIndexSum].ToArray();
         }
     }
 }
