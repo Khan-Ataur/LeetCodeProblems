@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "F:\\LeetCodeProblems\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD44E352-789B-41F5-9EAD-A9E605754B0F}|LeetPractice\\LeetPractice.csproj|f:\\leetcodeproblems\\leetpractice\\599_minindexsumtwolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD44E352-789B-41F5-9EAD-A9E605754B0F}|LeetPractice\\LeetPractice.csproj|solutionrelative:leetpractice\\599_minindexsumtwolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD44E352-789B-41F5-9EAD-A9E605754B0F}|LeetPractice\\LeetPractice.csproj|f:\\leetcodeproblems\\leetpractice\\748_shortestcompletingword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD44E352-789B-41F5-9EAD-A9E605754B0F}|LeetPractice\\LeetPractice.csproj|solutionrelative:leetpractice\\748_shortestcompletingword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD44E352-789B-41F5-9EAD-A9E605754B0F}|LeetPractice\\LeetPractice.csproj|f:\\leetcodeproblems\\leetpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "599_MinIndexSumTwoList.cs",
-              "DocumentMoniker": "F:\\LeetCodeProblems\\LeetPractice\\599_MinIndexSumTwoList.cs",
-              "RelativeDocumentMoniker": "LeetPractice\\599_MinIndexSumTwoList.cs",
-              "ToolTip": "F:\\LeetCodeProblems\\LeetPractice\\599_MinIndexSumTwoList.cs",
-              "RelativeToolTip": "LeetPractice\\599_MinIndexSumTwoList.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Title": "748_ShortestCompletingWord.cs",
+              "DocumentMoniker": "F:\\LeetCodeProblems\\LeetPractice\\748_ShortestCompletingWord.cs",
+              "RelativeDocumentMoniker": "LeetPractice\\748_ShortestCompletingWord.cs",
+              "ToolTip": "F:\\LeetCodeProblems\\LeetPractice\\748_ShortestCompletingWord.cs",
+              "RelativeToolTip": "LeetPractice\\748_ShortestCompletingWord.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T09:47:41.705Z",
+              "WhenOpened": "2025-03-09T06:04:43.101Z",
               "EditorCaption": ""
             },
             {
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "LeetPractice\\Program.cs",
               "ToolTip": "F:\\LeetCodeProblems\\LeetPractice\\Program.cs",
               "RelativeToolTip": "LeetPractice\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAhwDIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T05:44:13.767Z",
               "EditorCaption": ""
