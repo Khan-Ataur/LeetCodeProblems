@@ -19,27 +19,15 @@ namespace LeetPractice
             var charCount = licensePlate.GroupBy(c => c).ToDictionary(g => g.Key, g => g.Count());
             int totalChar = charCount.Count();
 
-            Dictionary<char,int> keyValues = new Dictionary<char,int>();
-            foreach (var word in words) 
-            {
-                foreach (char item in word)
-                {
-                    char X = item;
-                }
-            }
+            var targetFreq = licensePlate.ToLower().Where(char.IsLetter)
+      .GroupBy(c => c).ToDictionary(g => g.Key, g => g.Count());
 
-
-
-
-            foreach (var item in words)
-            {
-                var word_charCount = item.GroupBy(c => c).ToDictionary(g => g.Key, g => g.Count());
-
-                
-
-            }
+             _finalShortestWord = words.Where(word => targetFreq.All(kvp => word.Count(c => c == kvp.Key) >= kvp.Value))
+                       .OrderBy(word => word.Length)
+                       .First();
 
             return _finalShortestWord;
+
         }
 
 

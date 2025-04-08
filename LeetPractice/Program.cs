@@ -72,4 +72,5 @@ string shortestWord = objShortWord.ShortestCompletingWord(licensePlate, words);
 Console.WriteLine(shortestWord);
 
 
+
 #endregion
